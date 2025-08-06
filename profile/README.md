@@ -19,8 +19,9 @@ Hier finden sich einige unserer Softwareprojekte, die im Rahmen von Modulen, Pra
 
 - [Binäruhr](https://github.com/htwk-study-projects/BInUhrSNP)  
   Bestehend aus dem Entwurf einer Platine für die Binäruhr sowie der anschließenden Programmierung des verbauten Mikrocontrollers.
+  
+- [HoneyBadger-HMG](https://github.com/htwk-study-projects/HoneyBadger-HMG)  
+  Labyrinthgenerator mit Labyrinth-Umbau zu einer interessanteren Karte für Simulationen zu autonomen Fahren
 
 ## Laufende Projekte
 
-- [HoneyBadger-HMG](https://github.com/htwk-study-projects/HoneyBadger-HMG)  
-  Labyrinthgenerator mit Labyrinth-Umbau zu einer interessanteren Karte für Simulationen zu autonomen Fahren
